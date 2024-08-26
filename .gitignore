@@ -2,7 +2,7 @@
 .env
 
 # Ignorar la carpeta env
-env/
+/env
 
 # Ignorar la carpeta pycache
-__pycache__/
+/__pycache__
